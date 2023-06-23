@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/a7pfotmc41j60qrv/branch/main?svg=true)](https://ci.appveyor.com/project/Darythefirst/java-aqa2-rest/branch/main)
